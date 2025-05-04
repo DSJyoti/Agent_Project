@@ -1,5 +1,5 @@
-Project Summary: Three Agents for Financial and Market Analysis
-1. Web Search Agent (Research Agent)
+# Project Summary: Three Agents for Financial and Market Analysis
+## 1. Web Search Agent (Research Agent)
 Purpose: The Web Search Agent is designed to conduct deep investigative research, fact-checking, and source verification. It leverages web search tools (e.g., DuckDuckGo, Newspaper4k) to gather reliable sources and provide comprehensive financial analysis.
 
 Capabilities:
@@ -20,7 +20,7 @@ Uses a balanced, objective perspective with in-depth expert insights.
 
 Provides a well-rounded view of complex financial topics.
 
-2. Stock Market Analysis Agent (Stock Agent)
+## 2. Stock Market Analysis Agent (Stock Agent)
 Purpose: The Stock Market Analysis Agent focuses on analyzing the stock market performance of companies, providing a comparative analysis across different stocks. It uses Yahoo Finance tools to extract key metrics and generate detailed reports.
 
 Capabilities:
@@ -41,7 +41,7 @@ Offers clear, actionable insights and compares company performance to industry a
 
 Highlights risk factors and includes forward-looking analysis.
 
-3. Finance Analysis Agent (Finance Agent)
+## 3. Finance Analysis Agent (Finance Agent)
 Purpose: The Finance Analysis Agent focuses on comprehensive financial analysis and forecasting. It uses Yahoo Finance tools to extract financial data and generate detailed reports for companies and portfolios.
 
 Capabilities:
@@ -64,7 +64,7 @@ Highlights key trends, offers recommendations for improving financial stability,
 
 Includes risk disclosure and potential uncertainties in financial models.
 
-Summary Overview:
+# Summary Overview:
 These three agents work together to provide comprehensive financial and market insights:
 
 The Web Search Agent provides in-depth research and analysis based on reliable sources.
